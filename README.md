@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Full Stack Developer | Training at KodNest<br>Backed & core Languages: Java | Python | JavaScript | <br>DataBase: MySql<br>Front-End and Styling Language : HTML5 and CSS3 <br>Passionate about building real-world solutions
+Aspiring Full Stack Developer | Training at KodNest<br>Backed & core Languages: Java | Python | JavaScript | <br>DataBase: MySql<br>Front-End and Styling Language : HTML5 | CSS3 <br>Passionate about building real-world solutions
 
 
 ## 🌐 Socials:
